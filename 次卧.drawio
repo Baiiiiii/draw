@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="儿童房" id="vvN2WXxCwXEzClArBHi1">
-    <mxGraphModel dx="23243" dy="12143" grid="1" gridSize="3937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="23243" dy="12993" grid="1" gridSize="3937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="NKYnW35FqUTvferoAnF6-0" />
         <mxCell id="NKYnW35FqUTvferoAnF6-1" parent="NKYnW35FqUTvferoAnF6-0" />
@@ -285,14 +285,23 @@
         <mxCell id="tAqlmTnX8onAQzW5TAbV-0" value="&lt;font style=&quot;font-size: 500px;&quot;&gt;飘窗&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
           <mxGeometry x="11023.59825" y="-0.0032499999997526174" width="787.4" height="5905.5" as="geometry" />
         </mxCell>
-        <mxCell id="8LNIsz9tCERqGJbVdwSq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
-          <mxGeometry x="10866.119999999999" y="16141.699999999999" width="3931.0944999999997" height="787.4" as="geometry" />
-        </mxCell>
         <mxCell id="8LNIsz9tCERqGJbVdwSq-6" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
-          <mxGeometry x="10875.9625" y="16151.5425" width="3931.0944999999997" height="787.4" as="geometry" />
+          <mxGeometry y="-787.4" width="3931.0944999999997" height="787.4" as="geometry" />
         </mxCell>
-        <mxCell id="8LNIsz9tCERqGJbVdwSq-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
-          <mxGeometry x="11269.662499999999" y="13779.5" width="3149.6" height="3149.6" as="geometry" />
+        <mxCell id="8LNIsz9tCERqGJbVdwSq-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;direction=east;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+          <mxGeometry x="393.7" y="-393.7" width="3149.6" height="3149.6" as="geometry" />
+        </mxCell>
+        <mxCell id="cOUJSQrxsFRwvfam29Ah-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+          <mxGeometry x="7874" y="3937" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cOUJSQrxsFRwvfam29Ah-1" value="150*220床" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+          <mxGeometry x="2362.2" y="5629.91" width="8661.4" height="5905.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cOUJSQrxsFRwvfam29Ah-2" value="170*60衣柜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+          <mxGeometry y="4842.51" width="2362.2" height="6692.9" as="geometry" />
+        </mxCell>
+        <mxCell id="tt0jAQ7PUa4iOCh38wl9-0" value="60*120桌子" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.table;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=500;labelPosition=center;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+          <mxGeometry x="4950.0025000000005" y="0.002499999999827196" width="4724.4" height="2362.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
