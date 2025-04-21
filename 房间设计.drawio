@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="2">
   <diagram name="次卧" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="33640" dy="18700" grid="1" gridSize="3937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="29660" dy="16720" grid="1" gridSize="3937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
           <mxGeometry x="6938.9625" y="12598.4" width="3931.0944999999997" height="787.4" as="geometry" />
         </mxCell>
         <mxCell id="2Vlns5ZEm93gp3pkl4o4-61" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="7332.662499999999" y="9842.5" width="3149.6" height="3149.6" as="geometry" />
+          <mxGeometry x="7332.662499999999" y="9448.8" width="3149.6" height="3149.6" as="geometry" />
         </mxCell>
         <mxCell id="2Vlns5ZEm93gp3pkl4o4-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="2Vlns5ZEm93gp3pkl4o4-53" target="2Vlns5ZEm93gp3pkl4o4-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="20688.9625" y="12608.24" width="3931.0944999999997" height="787.4" as="geometry" />
         </mxCell>
         <mxCell id="2Vlns5ZEm93gp3pkl4o4-175" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="21082.6625" y="9852.339999999998" width="3149.6" height="3149.6" as="geometry" />
+          <mxGeometry x="21082.6625" y="9448.8" width="3149.6" height="3149.6" as="geometry" />
         </mxCell>
         <mxCell id="2Vlns5ZEm93gp3pkl4o4-176" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="2Vlns5ZEm93gp3pkl4o4-167" target="2Vlns5ZEm93gp3pkl4o4-167" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -275,32 +275,32 @@
     </mxGraphModel>
   </diagram>
   <diagram name="儿童房" id="vvN2WXxCwXEzClArBHi1">
-    <mxGraphModel dx="23243" dy="12993" grid="1" gridSize="3937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="28560" dy="15870" grid="1" gridSize="3937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="NKYnW35FqUTvferoAnF6-0" />
         <mxCell id="NKYnW35FqUTvferoAnF6-1" parent="NKYnW35FqUTvferoAnF6-0" />
-        <mxCell id="xW0ElXynrydnPSAQ1527-0" value="" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=0;movableLabel=0;movable=1;backgroundOutline=0;metaEdit=0;expand=1;collapsible=0;dropTarget=0;container=0;portConstraintRotation=0;noLabel=0;overflow=block;fillOpacity=100;imageVerticalAlign=top;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+        <mxCell id="xW0ElXynrydnPSAQ1527-0" value="" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=0;movableLabel=0;movable=1;backgroundOutline=0;metaEdit=0;expand=1;collapsible=0;dropTarget=0;container=0;portConstraintRotation=0;noLabel=0;overflow=block;fillOpacity=100;imageVerticalAlign=top;" parent="NKYnW35FqUTvferoAnF6-1" vertex="1">
           <mxGeometry width="11023.6" height="11535.41" as="geometry" />
         </mxCell>
-        <mxCell id="tAqlmTnX8onAQzW5TAbV-0" value="&lt;font style=&quot;font-size: 500px;&quot;&gt;飘窗&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+        <mxCell id="tAqlmTnX8onAQzW5TAbV-0" value="&lt;font style=&quot;font-size: 500px;&quot;&gt;飘窗&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" parent="NKYnW35FqUTvferoAnF6-1" vertex="1">
           <mxGeometry x="11023.59825" y="-0.0032499999997526174" width="787.4" height="5905.5" as="geometry" />
         </mxCell>
-        <mxCell id="8LNIsz9tCERqGJbVdwSq-6" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+        <mxCell id="8LNIsz9tCERqGJbVdwSq-6" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="NKYnW35FqUTvferoAnF6-1" vertex="1">
           <mxGeometry y="-787.4" width="3931.0944999999997" height="787.4" as="geometry" />
         </mxCell>
-        <mxCell id="8LNIsz9tCERqGJbVdwSq-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;direction=east;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
-          <mxGeometry x="393.7" y="-393.7" width="3149.6" height="3149.6" as="geometry" />
+        <mxCell id="8LNIsz9tCERqGJbVdwSq-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;direction=east;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="NKYnW35FqUTvferoAnF6-1" vertex="1">
+          <mxGeometry x="393.7" width="3149.6" height="3149.6" as="geometry" />
         </mxCell>
-        <mxCell id="cOUJSQrxsFRwvfam29Ah-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+        <mxCell id="cOUJSQrxsFRwvfam29Ah-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NKYnW35FqUTvferoAnF6-1" vertex="1">
           <mxGeometry x="7874" y="3937" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cOUJSQrxsFRwvfam29Ah-1" value="150*220床" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+        <mxCell id="cOUJSQrxsFRwvfam29Ah-1" value="150*220床" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" parent="NKYnW35FqUTvferoAnF6-1" vertex="1">
           <mxGeometry x="2362.2" y="5629.91" width="8661.4" height="5905.5" as="geometry" />
         </mxCell>
-        <mxCell id="cOUJSQrxsFRwvfam29Ah-2" value="170*60衣柜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+        <mxCell id="cOUJSQrxsFRwvfam29Ah-2" value="170*60衣柜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" parent="NKYnW35FqUTvferoAnF6-1" vertex="1">
           <mxGeometry y="4842.51" width="2362.2" height="6692.9" as="geometry" />
         </mxCell>
-        <mxCell id="tt0jAQ7PUa4iOCh38wl9-0" value="60*120桌子" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.table;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=500;labelPosition=center;" vertex="1" parent="NKYnW35FqUTvferoAnF6-1">
+        <mxCell id="tt0jAQ7PUa4iOCh38wl9-0" value="60*120桌子" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.table;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=500;labelPosition=center;" parent="NKYnW35FqUTvferoAnF6-1" vertex="1">
           <mxGeometry x="4950.0025000000005" y="0.002499999999827196" width="4724.4" height="2362.2" as="geometry" />
         </mxCell>
       </root>
