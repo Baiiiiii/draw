@@ -479,6 +479,9 @@
         <mxCell id="87BLe4xHU-21BRl7iEY4-32" value="16.5*37热水器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=300;" vertex="1" parent="1">
           <mxGeometry x="14411" y="6520" width="1456.6899999999998" height="649.605" as="geometry" />
         </mxCell>
+        <mxCell id="2XKecbQ0GwAIHQ5apYHX-1" value="&lt;div&gt;厨房&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=600;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="5417" y="8939" width="7088.568499999999" height="787.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
