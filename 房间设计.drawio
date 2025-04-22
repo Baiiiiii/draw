@@ -454,9 +454,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="87BLe4xHU-21BRl7iEY4-28" value="80" style="endArrow=baseDash;startArrow=baseDash;html=1;rounded=0;endFill=0;startFill=0;fontSize=400;strokeWidth=19.685;" edge="1" parent="1">
+        <mxCell id="87BLe4xHU-21BRl7iEY4-28" value="53" style="endArrow=baseDash;startArrow=baseDash;html=1;rounded=0;endFill=0;startFill=0;fontSize=400;strokeWidth=19.685;" edge="1" parent="1">
           <mxGeometry x="-0.0043" width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="7598.41" as="sourcePoint" />
+            <mxPoint x="1062.99" y="7598.41" as="sourcePoint" />
             <mxPoint x="3149.6" y="7598.41" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -472,6 +472,12 @@
             <mxPoint x="-393.7" y="5118.099999999999" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="87BLe4xHU-21BRl7iEY4-33" value="60*60洗衣机" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=500;" vertex="1" parent="1">
+          <mxGeometry x="13964" y="4798" width="2362.2" height="2362.2" as="geometry" />
+        </mxCell>
+        <mxCell id="87BLe4xHU-21BRl7iEY4-32" value="16.5*37热水器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=300;" vertex="1" parent="1">
+          <mxGeometry x="14411" y="6520" width="1456.6899999999998" height="649.605" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
