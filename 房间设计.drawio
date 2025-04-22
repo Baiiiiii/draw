@@ -421,10 +421,10 @@
         <mxCell id="87BLe4xHU-21BRl7iEY4-5" value="47*60柜子" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry y="3267.71" width="2362.2" height="1850.3899999999999" as="geometry" />
         </mxCell>
-        <mxCell id="87BLe4xHU-21BRl7iEY4-9" value="45*75燃气灶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="1">
+        <mxCell id="87BLe4xHU-21BRl7iEY4-9" value="45*75洗菜池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="1">
           <mxGeometry x="3149.6" y="5078.73" width="2952.75" height="1771.6499999999999" as="geometry" />
         </mxCell>
-        <mxCell id="87BLe4xHU-21BRl7iEY4-10" value="45*75洗菜池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="1">
+        <mxCell id="87BLe4xHU-21BRl7iEY4-10" value="45*75燃气灶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="1">
           <mxGeometry x="10039.35" y="5078.73" width="2952.75" height="1771.6499999999999" as="geometry" />
         </mxCell>
         <mxCell id="87BLe4xHU-21BRl7iEY4-13" value="182" style="endArrow=baseDash;startArrow=baseDash;html=1;rounded=0;endFill=0;startFill=0;fontSize=400;strokeWidth=19.685;labelBorderColor=none;" edge="1" parent="1">
