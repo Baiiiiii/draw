@@ -608,6 +608,12 @@
         <mxCell id="fLWM69S7jt7HjyeoeKlP-80" value="200*30的悬浮柜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="O-K2oz9XZcU6hgXBdTu0-1">
           <mxGeometry x="13920.050899999998" width="1181.1" height="7874" as="geometry" />
         </mxCell>
+        <mxCell id="fLWM69S7jt7HjyeoeKlP-82" value="20*85的空调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="O-K2oz9XZcU6hgXBdTu0-1">
+          <mxGeometry x="1643" width="3307.08" height="787.4" as="geometry" />
+        </mxCell>
+        <mxCell id="fLWM69S7jt7HjyeoeKlP-83" value="20*85的空调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="O-K2oz9XZcU6hgXBdTu0-1">
+          <mxGeometry x="15943" width="3307.08" height="787.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
