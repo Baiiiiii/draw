@@ -369,6 +369,12 @@
         <mxCell id="I7N41G1z_9KEd8l6ZOy--3" value="&lt;font style=&quot;font-size: 500px;&quot;&gt;150*80&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 500px;&quot;&gt;折叠沙发床&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="16062.04" y="4645" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="larTt087Mv3oL2PHd-hD-1" value="20*85的空调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="1">
+          <mxGeometry x="1650" width="3307.08" height="787.4" as="geometry" />
+        </mxCell>
+        <mxCell id="larTt087Mv3oL2PHd-hD-2" value="20*85的空调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="1">
+          <mxGeometry x="15400" width="3307.08" height="787.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
