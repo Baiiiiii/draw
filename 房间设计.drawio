@@ -303,8 +303,8 @@
         <mxCell id="2Vlns5ZEm93gp3pkl4o4-166" value="" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="13759.8425" y="19.682500000000147" width="11023.6" height="12598.4" as="geometry" />
         </mxCell>
-        <mxCell id="2Vlns5ZEm93gp3pkl4o4-167" value="&lt;font style=&quot;font-size: 500px;&quot;&gt;150*80&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 500px;&quot;&gt;折叠沙发床&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="13759.8425" y="413.3824999999995" width="3149.6" height="5905.5" as="geometry" />
+        <mxCell id="2Vlns5ZEm93gp3pkl4o4-167" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="13759.814999999999" y="413.3824999999995" width="3149.6" height="5905.5" as="geometry" />
         </mxCell>
         <mxCell id="2Vlns5ZEm93gp3pkl4o4-168" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="13759.8425" y="19.682500000000147" width="2913.3799999999997" height="393.7" as="geometry" />
@@ -359,6 +359,15 @@
         </mxCell>
         <mxCell id="MsbWvqU1ZZIRmgot75XU-2" value="&lt;div&gt;次卧&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;沙发床收起&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;效果&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=600;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="16806" y="14450" width="7088.568499999999" height="787.4" as="geometry" />
+        </mxCell>
+        <mxCell id="I7N41G1z_9KEd8l6ZOy--1" value="200*30的悬浮柜&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="1">
+          <mxGeometry width="1181.1" height="6692.9" as="geometry" />
+        </mxCell>
+        <mxCell id="I7N41G1z_9KEd8l6ZOy--2" value="200*30的悬浮柜&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=500;" vertex="1" parent="1">
+          <mxGeometry x="13759.814999999999" width="1181.1" height="6692.9" as="geometry" />
+        </mxCell>
+        <mxCell id="I7N41G1z_9KEd8l6ZOy--3" value="&lt;font style=&quot;font-size: 500px;&quot;&gt;150*80&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 500px;&quot;&gt;折叠沙发床&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="16062.04" y="4645" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
